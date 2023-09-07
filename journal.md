@@ -1,3 +1,9 @@
+## Entry 07/09/2023 ##
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/211a1ab8-2413-468f-8985-48ed2eff7e94)
+
+I made a planning yesterday. Might not do as much on the project today as I am up to day, will probably start tomorrow morning with the scope and definitions, then research plan and then the draft theorectical framework. The last one I should probably run past Minha.
+
 ## Entry 05/09/2023 ## 
 Test. Set up repo. 
 
