@@ -1,6 +1,7 @@
 ## Entry 14/09/2023 ##
 I guess I need to define what I mean with human-like and which emotions I want to mimick, asss well as thinking of a good service. Maybe I could repurpose and make some new Figma prototypes. See what digital services I can make as wel as generate. Hand those of to people and see how they react? 
 
+Should also spend some time on making something creative to set the tone of the project. 
 ## Entry 13/09/2023 ##
 
 Made a draft proposal/set-up. If I'm smart I can repurpose some of the bits of lat project's theorectical framework. 
