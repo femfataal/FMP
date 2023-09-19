@@ -1,5 +1,19 @@
+## Entry 19/09/2023 ##
+I want to get as far as I can by making pressure cooker prototypes to test this and next week. I have four concepts down already;  A human-like PA, human-like in-app notifications, human-like tutorials and a human social media manager. 
+
+1. PA: you do a quiz to detirmen the tone of the bot, will be able to plan or not plan searches, appointments, etc. similar to Google assistent
+2. whatsapp updates: in a human-like way, woul gain data from your chats
+3. tutorial: gain data from account plus a short quiz, takes you through the set-up of an app (spotify)
+4. Social media manager: Take data from your account and quiz, will help you improve your images. (clippy reuse)
+
+What I need are wireframes, and low-fi Figmas to hand of to some people. 
+
 ## Entry 14/09/2023 ##
 I guess I need to define what I mean with human-like and which emotions I want to mimick, asss well as thinking of a good service. Maybe I could repurpose and make some new Figma prototypes. See what digital services I can make as wel as generate. Hand those of to people and see how they react? 
+
+made another short deranged story! 
+
+
 
 Should also spend some time on making something creative to set the tone of the project. 
 ## Entry 13/09/2023 ##
