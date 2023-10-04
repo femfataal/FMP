@@ -1,3 +1,18 @@
+## Entry 04/10/2023 ##
+
+okay I was struggling a bit for the last couple weeks, because I wasn't sure what I was going to make and how. But I got out of it by making problems smaller and tangible as well as complaining to an UX/UI designer. Great.  
+
+I think I know what I want to do. Build a GAI search engine AMA. with a personality that can be controlled through sliders. User will be able to set the first personality through a short quiz, and are then able to use the site as a search engine with personality. During the research I want to ask participants to keep a journal and to optimize their experience of the platform through the sliders. They don't know what the sldiers directly correspond to, but they are negative qualities. 
+
+What I am interested in, if which qualities and in which amount, will be usefull to the user. My guess is that a little sadness directness and clumsiness will probably be popular. 
+
+What I still need: 
+1. look and feel of app
+2. quiz
+3. what personality traits should be included
+
+Once I have these I should be able to make a Figma or a Balsamic before I can start asking around to build an actual thing using GPT. 
+
 ## Entry 19/09/2023 ##
 I want to get as far as I can by making pressure cooker prototypes to test this and next week. I have four concepts down already;  A human-like PA, human-like in-app notifications, human-like tutorials and a human social media manager. 
 
