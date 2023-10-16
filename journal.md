@@ -1,3 +1,18 @@
+## Entry 16/10/2023 ##
+
+I have 2 more offcial weeks of building left. I have spent the first two  essentially getting stuck in the 'I'm not good enough zone' I need to start cristalize questions that I need answered as well as their answers. 
+
+Questions: 
+ -Why a personal assistent? 
+ -which character traits?
+ -WHat are the quiz questions going to be like? 
+ -What should the looks of the prototype be? (make 3-ish sketches) 
+ -Ask Shahrom what I could do with my skills and with the time I have
+
+ Okay right now I want to focus on the why and which, and maybe I can propose some quiz questions based on that as well. And make 2 sketches, one of a potential look and feel of the quiz and one of the assistent itself. 
+ 
+ 
+ 
 ## Entry 04/10/2023 ##
 
 okay I was struggling a bit for the last couple weeks, because I wasn't sure what I was going to make and how. But I got out of it by making problems smaller and tangible as well as complaining to an UX/UI designer. Great.  
