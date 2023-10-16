@@ -3,11 +3,14 @@
 I have 2 more offcial weeks of building left. I have spent the first two  essentially getting stuck in the 'I'm not good enough zone' I need to start cristalize questions that I need answered as well as their answers. 
 
 Questions: 
- -Why a personal assistent? 
- -which character traits?
- -WHat are the quiz questions going to be like? 
- -What should the looks of the prototype be? (make 3-ish sketches) 
- -Ask Shahrom what I could do with my skills and with the time I have
+ - Why a personal assistent?
+      - pure form of human-computer interaction? 
+ - which character traits?
+     - big 5/OCEAN personality?
+ - WHat are the quiz questions going to be like?
+     - let them take the big 5/OCEAN testand use those values as a starting point. 
+ - What should the looks of the prototype be? (make 3-ish sketches) 
+ - Ask Shahrom what I could do with my skills and with the time I have
 
  Okay right now I want to focus on the why and which, and maybe I can propose some quiz questions based on that as well. And make 2 sketches, one of a potential look and feel of the quiz and one of the assistent itself. 
  
