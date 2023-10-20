@@ -1,3 +1,18 @@
+## Entry 20/10/2023 ##
+Had a bit of a hard time of getting to work again.. However I do have made some process, which I am going to track in a seperate prototype log/document/situation so I can keep this mostly for updates on the general status of the project. 
+
+I should review and adapt my planning. 
+
+need to do next week: 
+ - review planning
+ - set up something tastable 
+ - make something
+ - start eying up testers
+ - build some sort of rationale behind this
+ - have some pretty stock images or whatever for the report.
+ - check in with Rachel, see what see has to say about this from a research point of view
+ - maybe talk to Shahrom again about my options. 
+   
 ## Entry 16/10/2023 ##
 
 I have 2 more offcial weeks of building left. I have spent the first two  essentially getting stuck in the 'I'm not good enough zone' I need to start cristalize questions that I need answered as well as their answers. 
