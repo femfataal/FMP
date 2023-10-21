@@ -1,3 +1,15 @@
+## etnry 21/10/2023 ##
+
+Okay so Max adviced to maybe do one type personality, like Rilla said and base that on the average personality of the people I ask. THat way I would only  have to mae 1 prototype/chatbot. WHich would narrow things down quite a lot. I should also ask Shahrom and Rachel on their opinions. I could ask Miriam for a relieable questionaire. 
+
+From there I would also need to nail down the following: 
+ - What type of participant
+ - how many participants
+ - how to approach the diary study
+ - what questions should I ask 
+
+Perhaps this list should be better in the journal? not  sure 
+
 ## Entry 20/10/2023 ##
 
 SO far I've received help from Max and Rilla. 
