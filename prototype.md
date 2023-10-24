@@ -1,3 +1,15 @@
+## Entry 24/10/2023 - maybe go back to drawing board ##
+
+Just spoke to Rachel, she mentioned that maybe the whole assistent thing is not going to work out...  
+However some other things I could try in the meanwhil is to WoZ somethings, or influence apps. I can also look up React Native. 
+I definitly need a chat with Rilla to iron some things down because I need to make soething real soon. 
+
+one thing I do know: is that I want to stimulate discussion around human-like interactions with computers. 
+
+I'm just not sure what I want exactly. 
+
+Rachel also mentioned mturk, red door and snow crash. 
+
 ## Entry 24/10/2023 -realization ## 
 
 So Shahrom, Max and Rilla helped me out a lot by explaining the inner workings of it all and what I can best do in order to make this work: 
