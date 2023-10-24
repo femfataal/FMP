@@ -1,3 +1,13 @@
+## Entry 24/10/2023 -realization ## 
+
+So Shahrom, Max and Rilla helped me out a lot by explaining the inner workings of it all and what I can best do in order to make this work: 
+
+So I got very stuck on the realization part, as I didn't know how to code and there would be inbetween, 2^5=32 and 5^5=3125 variation based on the slider idea, all with a certain personality tied to it. Essentially way too much. 
+
+What I want is to design a front end with a method of calling GPT over the web. Therefore, mobile design should be left to rest for nowand I should focus on making a working webpage first. Since ky skills in HTML and CSS are basic and incredibly dusty and my skill in JS basically non-existent. I will probably have to use libraries to bear the main load of the prototyping. I was recommended: React, React Native, Angular, Svelte, NextJS, and Nest JS. The can function as a foundation for the webpage and will save me time and effort. As for the realization this will mean that I should look into React Native and look for tools that would turn a Figma file into code/React Native. 
+
+As for the concept having to set different personalities will probably make it harder to code. While having only one set personality would be hard to arguea s to go for which personality exactly. I'm kinda of stuck on this..
+
 ## etnry 21/10/2023 ##
 
 Okay so Max adviced to maybe do one type personality, like Rilla said and base that on the average personality of the people I ask. THat way I would only  have to mae 1 prototype/chatbot. WHich would narrow things down quite a lot. I should also ask Shahrom and Rachel on their opinions. I could ask Miriam for a relieable questionaire. 
