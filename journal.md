@@ -1,3 +1,11 @@
+## Entry 24/10/2023 ##
+
+I got help from Shahrom, which I'll include in the prototype jorunal. There are some limitations in regards to the realization. 
+I also got feedback from Rilla that she doesn't think it would be a good idea to have a set personality... 
+I feel like I'm going somewhere but at the same time I'm getting stuck. 
+I was going to have a call with Rachel today, see what she thinks, and maybe I can set something up with Rilla? 
+
+
 ## Entry 20/10/2023 ##
 Had a bit of a hard time of getting to work again.. However I do have made some process, which I am going to track in a seperate prototype log/document/situation so I can keep this mostly for updates on the general status of the project. 
 
