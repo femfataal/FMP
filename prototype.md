@@ -1,3 +1,12 @@
+## Entry 25/10/2023 - realization ##
+
+So now I am looking into React, and the idea is to make a Figma prototype, and see if that can be turned into React with a tool. I suppose that from there I can ask for help in letting it make API calls to GPT. 
+
+The planning for now is out of the window. 
+I really need some support from Rilla and/or Minha... 
+
+I'll also have to look more into learning to understand React and find a tool to go from Figma to React. 
+
 ## Entry 24/10/2023 - maybe go back to drawing board ##
 
 Just spoke to Rachel, she mentioned that maybe the whole assistent thing is not going to work out...  
