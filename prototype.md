@@ -7,6 +7,11 @@ I really need some support from Rilla and/or Minha...
 
 I'll also have to look more into learning to understand React and find a tool to go from Figma to React. 
 
+As far for the tool, my first Youtube tutorial attempt is actually making it seem like it's not too much of a hassle. 
+SO far I've learned that there's Vite or kind of a slower way to go from Figma to React JS 
+and theres the Rendition tool that will create component directly. 
+I'll have to watch these full tutorials sometime soon to see if that would work. 
+
 ## Entry 24/10/2023 - maybe go back to drawing board ##
 
 Just spoke to Rachel, she mentioned that maybe the whole assistent thing is not going to work out...  
