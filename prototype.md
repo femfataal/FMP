@@ -3,7 +3,9 @@ Hallelujah! I inally finsih that damn "quick'' easy sketch I was going to do lol
 
 ![image](https://github.com/FemkeKocken/FMP/assets/50365794/f8be9e21-7203-428a-9690-09345bc607f0)
 
-I still kind of like the unstable identity glitch idea. Or trying to communicate the idea of instability and fluidity through the design of the app 
+I still kind of like the unstable identity glitch idea. Or trying to communicate the idea of instability and fluidity through the design of the app.
+
+I also started on the Figma for  the webpage but honestly, I'm just too tired man. I'll continue tomorrow.
 
 ## Entry 25/10/2023 - realization ##
 
