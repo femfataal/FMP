@@ -3,6 +3,8 @@ Hallelujah! I inally finsih that damn "quick'' easy sketch I was going to do lol
 
 ![image](https://github.com/FemkeKocken/FMP/assets/50365794/f8be9e21-7203-428a-9690-09345bc607f0)
 
+I still kind of like the unstable identity glitch idea. Or trying to communicate the idea of instability and fluidity through the design of the app 
+
 ## Entry 25/10/2023 - realization ##
 
 So now I am looking into React, and the idea is to make a Figma prototype, and see if that can be turned into React with a tool. I suppose that from there I can ask for help in letting it make API calls to GPT. 
