@@ -1,3 +1,11 @@
+## Entry 26/10/2023 - Aesthetics ##
+
+Finished the first figma desktop sketch. FINALLY. 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/c00a51c4-f09d-4721-a831-6e68e244ce24)
+
+I think this looks a little bit too cloowny.. I do still like the unstable lay-overs. But I definitly need to go with dark mode.  
+
 ## Entry 25/10/2023 - Aesthetics ## 
 Hallelujah! I inally finsih that damn "quick'' easy sketch I was going to do lol. 
 
