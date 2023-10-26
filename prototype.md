@@ -1,3 +1,8 @@
+## Entry 26/10/2023 - Realization ##
+Okay I think I've found a good tool to use, Locofy. This will help me to turn a Figma file into React.js in such a way that I would almost believe I could then host it on Github (this is going be great for my portfolio, but I can't do it for the prototype as you can't publish a GPT key online..)
+This could be promising. I could try and make an aesthically better version and see if I could upload it to Git pages to test the waters? 
+
+
 ## Entry 26/10/2023 - Aesthetics ##
 
 Finished the first figma desktop sketch. FINALLY. 
@@ -52,7 +57,7 @@ What I want is to design a front end with a method of calling GPT over the web. 
 
 As for the concept having to set different personalities will probably make it harder to code. While having only one set personality would be hard to arguea s to go for which personality exactly. I'm kinda of stuck on this..
 
-## etnry 21/10/2023 ##
+## etnry 21/10/2023 - Research process ##
 
 Okay so Max adviced to maybe do one type personality, like Rilla said and base that on the average personality of the people I ask. THat way I would only  have to mae 1 prototype/chatbot. WHich would narrow things down quite a lot. I should also ask Shahrom and Rachel on their opinions. I could ask Miriam for a relieable questionaire. 
 
@@ -64,7 +69,7 @@ From there I would also need to nail down the following:
 
 Perhaps this list should be better in the journal? not  sure 
 
-## Entry 20/10/2023 ##
+## Entry 20/10/2023 - concept ##
 
 SO far I've received help from Max and Rilla. 
 THey also advised me not to continue to think about actually realizing this because it is simply put, too much dam work. 
@@ -74,7 +79,7 @@ However, I could continue with a single setting.
 
 alright I'll get bck to you tomorrow. As I also want to finish a drawing so I have atleast something to point when talking about this concept, you know.
 
-## Entry 20/10/2023 ##
+## Entry 20/10/2023 - concept ##
 
 I thought it could be interesting to keep a log of the development of my prototype here (I guess that was part of whole GaR project, I'm just a bigger idiot than people think) 
 Anways, okay so I don't have too much time right now so I'll copy paste the beginning of the concept here and I guess I'll add more to it later. 
