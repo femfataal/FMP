@@ -1,3 +1,8 @@
+## Entry 26/10/2026 ##
+
+I'm now learning more about Figma and React. So far this  is going pretty okay. I'm getting better at both. 
+I'm also working on the visual style of the potential prototype. 
+
 ## Entry 24/10/2023 ##
 
 I got help from Shahrom, which I'll include in the prototype jorunal. There are some limitations in regards to the realization. 
