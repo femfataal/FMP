@@ -1,3 +1,14 @@
+## Entry 27/10/2023 - Business ##
+In the meanwhile I'm just now reading about this new article that has passed UK law surrounding digital safety. It's pretty controversial. Moest importantly messages can now get scanned to filter out illegal content
+''Some of the more nuanced principles around the harms caused by legal but harmful content have been watered down, and added in is a highly divisive requirement for messaging platforms to scan users’ messages for illegal material, such as child sexual abuse material, which tech companies and privacy campaigners say is an unwarranted attack on encryption.''
+
+also: 
+-age requirements 
+-reporting concerns
+-any treats of suicide, murder, cyberbullying and deepfake porn must be removed from the platform. 
+
+https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/
+
 ## Entry 26/10/2023 - Realization ##
 Okay I think I've found a good tool to use, Locofy. This will help me to turn a Figma file into React.js in such a way that I would almost believe I could then host it on Github (this is going be great for my portfolio, but I can't do it for the prototype as you can't publish a GPT key online..)
 This could be promising. I could try and make an aesthically better version and see if I could upload it to Git pages to test the waters? 
