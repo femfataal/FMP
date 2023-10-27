@@ -1,3 +1,8 @@
+## Entry 27/10/2023 ## 
+
+I think this was a very productive week, Shahrom helped me nail some things down, I've finally finished the sketch and the figma draft. I want to keep exploring styles and see what I can realize. I am in despreate need of meetings wit Rilla or Minha though... Hope that will be next week. 
+Other than that, I think I did good. 
+
 ## Entry 26/10/2026 ##
 
 I'm now learning more about Figma and React. So far this  is going pretty okay. I'm getting better at both. 
