@@ -1,3 +1,16 @@
+## Entry 27/10/2023 - C&A ##
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/036320e1-a97c-4060-8b08-e2be5c07d2de)
+SO I'm trying to make a dark version of a webpage, but honestly I might have to put it to rest for now and pick it back up next week. I'm a little exhausted. 
+
+Did also find this image: 
+blue-ish computer face design kinda vibe. Which would be a cool thing I could potentially explore. Why the added middle man of a assistent, if you could also speak to your laptop directly?
+I could take this idea into potential meetings as well. 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/378f9386-f0e2-4685-b37c-aecdb552a579)
+
+
+
 ## Entry 27/10/2023 - Business ##
 In the meanwhile I'm just now reading about this new article that has passed UK law surrounding digital safety. It's pretty controversial. Moest importantly messages can now get scanned to filter out illegal content
 ''Some of the more nuanced principles around the harms caused by legal but harmful content have been watered down, and added in is a highly divisive requirement for messaging platforms to scan users’ messages for illegal material, such as child sexual abuse material, which tech companies and privacy campaigners say is an unwarranted attack on encryption.''
