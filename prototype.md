@@ -1,3 +1,35 @@
+## Entry 30/10/2023 - Minha ##
+
+Make it. Making is now main priority. 
+CSA question for planning and professors. 
+Working prototype is needed and should be the focus. 
+Starting reaching out to people for participations, ERB with TU/e 
+
+Linda Martins, ERB committee 
+
+defer the question until it is built. 
+
+Mid november, ERB approfal and participants. 
+
+read literature on OCEAN. Not as technical but more personality, which should be more lit based. 
+
+have a slider/buttons to only do the most extreme versions. 
+
+Design the personalities to the best of my ability 
+
+send out markers/hallmarks. 
+
+Okay so, I have about 2 weeks to build something. Anything really. And it might be best to just settle on buttons that can just influence the personality. Have essentially 5 settings based on OCEAN. 
+Prototyping should be highest priority together with ERB and partcipants. 
+
+To do: 
+	- start prompt engineering 
+	- Go from Figma to React to Gitpages
+	- Have a prototype!!! 
+	- start reaching out to people for participating 
+	- make a draft for data collection 
+	- ERB 
+
 ## Entry 30/10/2023 - B&E ##
 
 New legistlation for the US and GAI https://www.wired.com/story/joe-bidens-executive-order-ai-us-government-chatgpt/ 
