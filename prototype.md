@@ -1,3 +1,14 @@
+## Entry 30/10/2023 - B&E ##
+
+New legistlation for the US and GAI https://www.wired.com/story/joe-bidens-executive-order-ai-us-government-chatgpt/ 
+
+''...the Defense Production Act, a law that can compel businesses to take actions in the interest of national security, to require the makers of large AI models to report key information to the government, including when they are training a new model and what cybersecurity protections they have.''
+
+''Another part of the order requires companies that acquire, develop, or possess large-scale computing clusters, essential to training the most powerful AI systems, to report their activity to the federal government. This rule is intended to help the government understand which entities, including those from nations competing with the US, have strong AI capabilities.''
+
+It's intersting to see how the US is almost weaponizing GAI, as well as forcing direct opportunity for the government. Since I'm only making GPT calls, in the best scenario, I don't think this applies to me persé. However, if I wanted to actually make this, the source of the model should be explainable, key information should be collected and presented, and explain what cyber security is set in place. 
+
+
 ## Entry 27/10/2023 - C&A ##
 
 ![image](https://github.com/FemkeKocken/FMP/assets/50365794/036320e1-a97c-4060-8b08-e2be5c07d2de)
