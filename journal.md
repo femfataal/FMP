@@ -1,3 +1,17 @@
+## entry 30/10/2023 ##
+
+So for now I want to work on the designs of a page in Figma as well as realization and using tools to go from Figma to React to Gitpages. In the meanwhile I can also work on my portfolio.. But the main problem I am still facing is concept related so I'm not sure how to solve for that.. 
+
+I currently have the following problems: 
+ - concept
+    - I want to do something realted to letting users interact with 'negative' personality qualities, let them interact with a website/computer/interface and gage their responses. Right now I'm working with OCEAN as a personality model and a virtual assistent as the interface. However, I'm not really sure how to best glue this together conceptually as well as in a way that something can be tested in the end 
+ - realization
+   - so I found some tool and a method which I can use to make things, which I will have to test. However this is going to be hard and is going to take up way more time than is expected which kinda makes me nervous. 
+ - testing
+    - again I'm thinking of diary studies, but there is the time factor.. I think my main worries right now are with the concept.
+ - time
+    - right now the planning is out of the window untill I have a better grasp on the project, which stresses me out 
+
 ## Entry 27/10/2023 ## 
 
 I think this was a very productive week, Shahrom helped me nail some things down, I've finally finished the sketch and the figma draft. I want to keep exploring styles and see what I can realize. I am in despreate need of meetings wit Rilla or Minha though... Hope that will be next week. 
