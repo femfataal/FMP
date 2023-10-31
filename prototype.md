@@ -1,3 +1,9 @@
+## Entry 31/10/2023 -  C&A ##
+
+finished a dark mode concept. 
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/dc5d8f85-179c-467a-9b75-5e812e70a10f)
+Looks better than lightmode for sure. But it doesn't communicate assistent in any sort of way. I was thinking of maybe playing around with the Windows looks, maybe creating a dark mode look and potentially bringing back Clippy? 
+
 ## Entry 30/10/2023 - Minha ##
 
 Make it. Making is now main priority. 
