@@ -1,3 +1,13 @@
+## Entry 31/10/2023 - C&A ##
+
+Made a versions with the on and off buttons Minha mentioned. 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/bc918e4d-70b0-415b-b08c-6a8326a8fbfd)
+
+I really dislike this idea and it's getting too disconnected from an assistent visually speaking
+
+
+
 ## Entry 31/10/2023 -  C&A ##
 
 finished a dark mode concept. 
