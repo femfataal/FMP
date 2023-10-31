@@ -1,3 +1,8 @@
+## Entry 31/10/2023 - Shahrom ##
+
+### GET A REACT CODE YOU TWAT ### 
+### Get it done in max. 3 weeks (hey wow that sounds like Minha ) ###
+
 ## Entry 31/10/2023 - C&A ##
 
 Made a versions with the on and off buttons Minha mentioned. 
