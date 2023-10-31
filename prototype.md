@@ -22,13 +22,13 @@ send out markers/hallmarks.
 Okay so, I have about 2 weeks to build something. Anything really. And it might be best to just settle on buttons that can just influence the personality. Have essentially 5 settings based on OCEAN. 
 Prototyping should be highest priority together with ERB and partcipants. 
 
-To do: 
-	- start prompt engineering 
-	- Go from Figma to React to Gitpages
-	- Have a prototype!!! 
-	- start reaching out to people for participating 
-	- make a draft for data collection 
-	- ERB 
+To do:
+ - start prompt engineering 
+ - Go from Figma to React to Gitpages
+ - Have a prototype!!! 
+ - start reaching out to people for participating 
+ - make a draft for data collection 
+ - ERB 
 
 ## Entry 30/10/2023 - B&E ##
 
