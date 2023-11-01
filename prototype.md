@@ -1,3 +1,26 @@
+## Entry 01/11/2023 - Rilla ##
+
+Okay so I might want to change the concept a little bit and steer it to a slightly more speculative direction, that or I'll throw myself of a cliff of boredom. 
+
+So what I could start doing would be to research the personality of ChatGPT and manipulate that into something more human. Right now ChatGPT is trying to be very helpful and subserviant. I think there was this Wired article about this as well. So I could go from there and make for example unhelpful chatbots, that are for example very egotistical, extremly helpful or extremly clumsy. 
+
+What I could do here is build one base chatbot, and maybe some cool figma lay outs for the different types, and form there just click them together like legos and let people interact with it? 
+
+This is going in the right direction again. 
+
+https://www.sintef.no/en/all-employees/employee/asbjorn.folstad/ 
+this is someone that I can use for research on 
+
+However, I have 2 weeks... 
+
+So what I need is:
+ - go from Figma to React succesfully
+ - get React to make GPT calls
+ - prompts
+ - web designs
+
+ - maybe I could try and aim for the React code and I'll probably have to look into an API call. 
+
 ## Entry 31/10/2023 - Shahrom ##
 
 ### GET A REACT CODE YOU TWAT ### 
