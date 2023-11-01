@@ -1,3 +1,8 @@
+## Entry 01/11/2023 - T&R ##
+
+I started working with Locofy, but I'm porbably going to have to make changes as it won't allow for as much creative freedom as I would have like. I think I can still pivot though. 
+I should see if I can get a React code and host that locally. Ideally this week. So that on Friday I can start worrying about api call. 
+
 ## Entry 01/11/2023 - Rilla ##
 
 Okay so I might want to change the concept a little bit and steer it to a slightly more speculative direction, that or I'll throw myself of a cliff of boredom. 
