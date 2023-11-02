@@ -1,3 +1,13 @@
+## Entry 02/11/2023 - T&R ##
+
+I'm now also looking into a combination of Power Virtual Agents, Copilot and GPT to get things working for me FAST. I could use locofy maybe for a final pretty prototype but for now I need something working and this could get the trick done. 
+but I'm not sure if power virtual agents can be exported into React? 
+
+con: it won't be able to actually make GPT calls, but I could train it on a dataset. However, I'm not sure if I can influence the personality as much as I want to. 
+yeah I'm pretty sure this might be a dead-end
+
+
+
 ## Entry 01/11/2023 - T&R ##
 
 I started working with Locofy, but I'm porbably going to have to make changes as it won't allow for as much creative freedom as I would have like. I think I can still pivot though. 
