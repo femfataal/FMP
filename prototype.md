@@ -1,3 +1,28 @@
+## Entry 02/11/2023 - Mohammed ##
+
+Mohammed might aso be able to help me together with Shahrom in order to get everything working with  GPT. I might even be able to getsome pieces of code from them. That would really help me along. That means that for next week I need to have some React code that works, and a plan for the props. 
+
+to do: 
+ - React
+ - research for prompts and personality
+ - meeting Mohammed
+ - meeting Shahrom
+ - maybe some visuals to spice up the report.
+
+   I should also think of how to include MDC into this project. What data, why, how to structure and what measurable values am I going to be interested in. Rilla will proabbly be able to help with that, or I could even use the MDM tool?
+   
+As for the other competencies: 
+ - US
+    - relations towards GAI and chatbots as tech
+  - BE
+     - Emerging laws, market trends, competiton analysis
+  - CA
+    - communication of personality
+   - TR
+      - working prototype
+   - MDC
+     - what data, why and how to messure 
+   
 ## Entry 02/11/2023 - T&R ##
 
 I'm now also looking into a combination of Power Virtual Agents, Copilot and GPT to get things working for me FAST. I could use locofy maybe for a final pretty prototype but for now I need something working and this could get the trick done. 
