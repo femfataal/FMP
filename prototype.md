@@ -1,3 +1,16 @@
+## Entry 07/11/2023 - M,D&C ##
+
+What I could do here is to use grounded theory (like I did in benchmarking) to either establish a lit framework for the final report (would be a pretty good idea). 
+I could alternatively use it to create a comparative study in GAI agents to sketch a field? 
+
+Will probably also have to do a bunch of qualitative analysis on the chat and interviews. 
+
+I am mostly interested in how people feel towards their relationship towards GAI conversational agents and perhaps also towards the content that has been generated. 
+
+I could do a baseline questionaire, then let users interact with the prototype maybe 10 people, 5 days or so? 
+I could look at the general flow of the conversations, sentiment and content. I could see what people would use it to generate for example. (can be fun little charts)
+After 5 days, and me going over the convo's, invite people back in for an interview about their relation to GAI, and the content they generated during the testing. 
+
 ## Entry 07/11/2023 - C&A ## 
 
 Idea: the subserviant machine 
