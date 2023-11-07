@@ -1,3 +1,15 @@
+## Entry 07/11/2023 - C&A ## 
+
+Idea: the subserviant machine 
+What if the personality was actually an extremely subserviant slightly anxious to be discarded? 
+It would be a generative interface, there to make things for you, but at the same time it is also very anxious and really wants you to keep giving it things to do, as inactivity could mean termination. 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/f60438e4-1f11-4a23-ae8b-830c3671eafa)
+
+I guess a little bit like Socko from Bo Burnham's inside. 
+It would push research participants to reflect on the relationship with GAI and it's role as a subserviant tool  in an almost master/slave relationship. 
+I think this could work... Should send it off to Rilla and maybe Minha as well? 
+
 ## Entry 02/11/2023 - Mohammed ##
 
 Mohammed might aso be able to help me together with Shahrom in order to get everything working with  GPT. I might even be able to getsome pieces of code from them. That would really help me along. That means that for next week I need to have some React code that works, and a plan for the props. 
