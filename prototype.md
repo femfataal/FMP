@@ -1,3 +1,12 @@
+## Entry 08/11/2023 - C&A ## 
+
+I'm thinking of going with the visual style of Powershell. To make it feel like you are talking with the laptop directly. I should make a sketch for this. 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/d3477523-7d8b-4181-80f4-70b27647095c)
+
+
+Going with blue/white will probably be easier on the eyes. But I also have to keep in mind the useability of it.. People might hate this look as it's not very easy on the eyes. I could just change the font a little bit.. Or create this as a final look with everything on it
+
 ## Entry 07/11/2023 - M,D&C ##
 
 What I could do here is to use grounded theory (like I did in benchmarking) to either establish a lit framework for the final report (would be a pretty good idea). 
