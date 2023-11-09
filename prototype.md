@@ -1,3 +1,10 @@
+## Entry 9/11/2023 - C&A ##
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/de2e7de2-c32a-4df2-b7de-5aaa66bd5d09)
+
+Finally made the visual for a Windows clone. I like the idea of utilizing a visual language that is directly linked to the pc/laptop. It connects back to talking to your computer directly. THe problem here is the question of which version of Windows should I settle on? As it is a pretty personal thing/age related. Usually the first version of Windows people are familiar with feels special because of the nostalgia. There is however a lot of empty space still.. 
+
+
 ## Entry 8/11/2023 - C&A ## 
 
 Forgot to again upload the poster lol 
