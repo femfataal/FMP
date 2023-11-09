@@ -1,3 +1,31 @@
+## Entry 8/11/2023 - almost formal research proposal ##
+
+The email I sent/am going to send to Rilla and Minha: 
+
+I think I have finally figured out what I want to do. I want to explore the human/technology relations in regards to GAI. I am interested in GAI as a tool and the relationship we have towards a tool which we use by talking to it. The current GAI bots that are out there, like ChatGPT all focus on it being like an assistent, a helper, a subordinate that will help you achieve what you want by generating content. 
+
+- Concept and prototype 
+I want to explore these relations by developing a speculative prototype that takes this technology from ready-at-hand to present-at-hand, meaning to transform it from a seamless experience to a design that causes enough friction with the user to be noticable, but is still functional. THis is were the concept for The Subservient Machine comes it, this prototype would act as an GAI agent, similar to ChatGPT and will be able to generate texts but you can also talk to it. It is a very pushy and attentive, almost to the point of annoyance in constantly asking you to make requests. This is because it is extremely anxious that if it will not perform to your liking it might get discarded. It will most probably take the shape of a website that potential test subject can visit. 
+
+- Testing and data collection 
+I was thinking of aiming for about 10 to 15 people to test. Participants would be have to be familiar with GAI agents such as ChatGPT and use it at least once a month. I would send out a questionaire about their current GAI use, their relation towards it and how they feel towards the generated content. I would then ask them to use the prototype over the span of about 4 or 3 days. Asking them to interact with it, let it generate content for you and talk to it socially. Ideally during this time users would gradually learn about how and why the Subvervient machine is so anxious, but that will depend on the final prototype. I would collect the logs from the participants so I could clustering on them based on the sentiment, topics, and generated content, and I would finish with an interview of the experience, the relationship towards the GAI agent and attitude towards it's generated content. For this interview I can probably do a sentiment analysis. 
+
+- conclusion
+By doing this I expect to be able to draw some insights into the relationship towards a tool that you talk to in natural language, and the role of this technology as a human-like aid. 
+
+- Presenting at demoday 
+Since I will be paying for the GPT API key out of pocket I don't think it will be wise to have it running on demo day. I have no estimation of how many people and how much they will use it, and therefore no idea on the costs. However, by that time I can show screenshots of the prototype, a clip explaining the project and the prototype in action, the poster and pitch. 
+I have a first version of a potential poster right here: 
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/28126788-961a-4326-b443-39b85846ab32)
+
+- My main worries and questions at this moments 
+in terms of expertise areas I feel that my expertises of User & Society and Creativity & Aesthetcis shine through pretty well. Technology & realization is very much present in the working prototype aspect. However I am not entirely sure about Math, data and computing, I guess this will be present in the data analysis? And I could do an analysis of competing GAI agents such as GPT to represent Business & ENtrepeneurhsip. 
+
+Question 1: What are some activities that I can undertake to show more of Math, Data & Computing, and Business & Entrepeneurship? 
+
+Question 2: I am also uncertain on what best to do exactly for the testing and analysis part of the project. So Feedback on this would be very much appreciated. Espcially when it comes to making sense and clustering/processing all of the data I'll receive.  
+
+
 ## Entry 21/10/2023 ##
 
 So this is going to be a log to keep track of my research 
