@@ -1,5 +1,12 @@
 ## Entry 09/11/2023 - C&A ##
 
+Updated the look with a press enter to send
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/20558ed8-13e5-4106-9f7c-66d9e4f67151)
+
+
+## Entry 09/11/2023 - C&A ##
+
 ![image](https://github.com/FemkeKocken/FMP/assets/50365794/fe91ae46-48dd-4652-a03b-d6a139064415)
 
 Finally made this Powershell look, that I actually like. This could actually work. Will probably ask some people for feedback but I think this could be cool. 
