@@ -1,6 +1,19 @@
+## Entry 8/11/2023 - C&A ## 
+
+Forgot to again upload the poster lol 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/42017df2-5570-4fcb-914d-d5cbbd1e9d35)
+
+SHahrom feedback: colour of red and blue are off, and that the letters can be touched up a little bit more and made a little tighter/cleaner. 
+
+I personally like the AAAAAAAAAAA scream aesthetics. Very in your face and also pretty present online
+
 ## Entry 08/11/2023 - C&A ## 
 
 I'm thinking of going with the visual style of Powershell. To make it feel like you are talking with the laptop directly. I should make a sketch for this. 
+
+
+
 
 ![image](https://github.com/FemkeKocken/FMP/assets/50365794/d3477523-7d8b-4181-80f4-70b27647095c)
 
