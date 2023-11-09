@@ -1,3 +1,9 @@
+## Entry 09/11/2023 - C&A ##
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/fe91ae46-48dd-4652-a03b-d6a139064415)
+
+Finally made this Powershell look, that I actually like. This could actually work. Will probably ask some people for feedback but I think this could be cool. 
+
 ## Entry 9/11/2023 - C&A ##
 
 ![image](https://github.com/FemkeKocken/FMP/assets/50365794/de2e7de2-c32a-4df2-b7de-5aaa66bd5d09)
