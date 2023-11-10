@@ -1,3 +1,9 @@
+## Entry 10/11/2023 - Kalervo ##
+
+''it's really interesting to see that people are talking about GAI by always mentioning how it will be completely subservient and will never disagree with with but never at the same time''
+''This can exist but only really in a world of slavery'' 
+
+
 ## Entry 10/11/2023 - T&R + C&A ##
 
 Started with the prompt design of TSM. So far I have learned that it particularly hard to get it to act submissive even when using hard language such as: act like a slave. It just keeps being generically nice/helpful. 
