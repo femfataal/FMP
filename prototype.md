@@ -1,3 +1,13 @@
+## Entry 10/11/2023 - T&R + C&A ##
+
+Started with the prompt design of TSM. So far I have learned that it particularly hard to get it to act submissive even when using hard language such as: act like a slave. It just keeps being generically nice/helpful. 
+However, I made some progress in turning it into a chatbot. These seem to carry much more personality. 
+I know have questions such as: 
+	- How many days is enough to get the point accross? 
+	- What exactly do I want the story arc to be? 
+	- What prompts am I going to use exactly 
+	- How to go from React Native to React web
+
 ## Entry 09/11/2023 - C&A ##
 
 Updated the look with a press enter to send
