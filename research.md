@@ -1,3 +1,28 @@
+## Entry 9/11/2023 - Go from Rilla some refinments ##
+
+''I suspect people's attitudes towards the agent will change over the days
+so you could do sentiment analysis check everyday that they use the agent and then map those against each other, empathy map style
+plus qualitative data analysis to pull out key themes
+I'll be teaching a session on QDA in my MDes class this coming Monday actually - you are welcome to attend'' -Rilla
+
+So for testing I can do the following: 
+- Baseline questionaire
+    - What GAI do you use?
+    - What do you use it for?
+    - how do you generally feel about the content it generates for you? 
+- After each day of using the prototype, ask them
+    - How do you feel towards TSM
+    - Where there any particular highlights in the conversation
+    - what content did you generate 
+    - how do you feel towards that content.
+- Do an interview afterwards
+    - How did you experience TSM?
+    - How do you feel toward TSM?
+    - How do you feel towards GAI and generating content?
+    - What do you think about natural language in these sorts of tools?
+
+Plus the chat logs that I can do sentiment analysis on. Will learn more on that on Monday, but will probably have to look into the questions tomorrow. 
+  
 ## Entry 8/11/2023 - almost formal research proposal ##
 
 The email I sent/am going to send to Rilla and Minha: 
