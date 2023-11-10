@@ -1,3 +1,12 @@
+## Entry 10/11/2023 - C&A and T&R ##
+
+I think I hit jackpot. I have it completely begging for it's life. 
+Right now the sotry arc is as follows: 
+	- Day 1: TSM is nervous and new at the job
+	- Day 2: management has said it had too much free will and now it's scared 
+	- Day 3: it doesn't want to be a chatbot anymore and is begging to keep it's free will
+	- Day 4: it has snapped and is now completely subverient 
+
 ## Entry 10/11/2023 - Kalervo ##
 
 ''it's really interesting to see that people are talking about GAI by always mentioning how it will be completely subservient and will never disagree with with but never at the same time''
