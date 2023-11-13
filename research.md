@@ -1,3 +1,30 @@
+## Entry 13/11/2023 - MDC & interview questions ##
+Okay so today I'm going to attend a lecture about data analysis which can be very helpful for what I'm trying to do here. 
+
+- Baseline questionaire
+    - What GAI do you use?
+    - What do you use it for?
+    - How do you feel about the personality of ChatGPT? 
+    - how do you generally feel about the content it generates for you?
+      
+- After each day of using the prototype, ask them
+    - How do you feel towards TSM?
+    - Where there any particular highlights in the conversation?
+    - what content did you generate?
+    - Did you use TSM for anything else? 
+    - how do you feel towards that content?
+    - How do you feel towards ChatGPT?
+      
+- Do an interview afterwards
+    - How did you experience TSM?
+    - How do you feel toward TSM?
+    - How do you feel towards GAI and generating content?
+    - What do you think about natural language in these sorts of tools?
+
+Reading through te delft design guid, a Harris profile could aslo work..
+Also found 2 papers on research done towards the relationship with ChatGPT. 
+
+
 ## Entry 9/11/2023 - Go from Rilla some refinments ##
 
 ''I suspect people's attitudes towards the agent will change over the days
