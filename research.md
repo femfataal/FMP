@@ -1,3 +1,20 @@
+## Entry 13/11/2023 - Lecture in DR and Data ##
+
+- Coding qual data
+- looking for realtionships between codes (if-then logic)
+- explain phenomena in terms of causation
+- memos to jot down notes to keep track of the codes
+- condence data not reduce it
+  
+- look for patterns, habits, salience, significance in people's lived experience.
+- in-vivo coding (using the aprtcipant's wording)
+- Process coding (looking for vers, gerunds -ing)
+- concept coding (abstractions)
+
+- Atlas, Anemo
+- 
+  
+
 ## Entry 13/11/2023 - lecture in design research and data ##
 
 ### tips from lecture: ask yourself 1) What? 2) So what? 3) Now what? ###
@@ -23,6 +40,7 @@ I suppose that what I eventually have to write is a design process report I will
     - Methodology 
         - Speculative design research 
         - Grounded theory 
+            - coding 
         - Testing prototype 
             - participants 
             - questionaires
