@@ -11,8 +11,24 @@
 - Process coding (looking for vers, gerunds -ing)
 - concept coding (abstractions)
 
-- Atlas, Anemo
-- 
+Atlas, Anemo
+
+After coding: identify categories
+  - list all the codes
+  - diagram the codes
+      - process and causation
+      - sets and subsets
+      - similarities and differences
+  - count code frequencies
+
+Axial coding 
+  - pick categories or axis that has the potential to explain much of the data
+
+Selective coding 
+  - finding a core category that seems to largely explain the data
+  - keep reducing/consolodating until you have a category of categories
+  - selective coding is coding with only the major categories in mind
+  - 
   
 
 ## Entry 13/11/2023 - lecture in design research and data ##
