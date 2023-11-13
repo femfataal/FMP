@@ -1,3 +1,7 @@
+## Entry 13/11/2023 ## 
+
+I have to start thinking of the report structure, as it will also haelp me to bettter refine the questions for the research
+
 ## entry 30/10/2023 ##
 
 So for now I want to work on the designs of a page in Figma as well as realization and using tools to go from Figma to React to Gitpages. In the meanwhile I can also work on my portfolio.. But the main problem I am still facing is concept related so I'm not sure how to solve for that.. 
