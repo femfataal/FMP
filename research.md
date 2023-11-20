@@ -1,3 +1,60 @@
+## Entry 20/11/2023 - questions for participants ##
+
+These are the questions for the partcipants during the research: 
+
+- Baseline questionaire
+    - What GAI do you use?
+    - What do you use it for?
+    - What kind of content do you generate (think summaries, draft texts, emails, resumes)
+ 
+    - How would you desribe your relationship towards ChatGPT? 
+    - How do you feel about the personality of ChatGPT?
+    - What tone of voice do you use with chatGPT?
+    - Are there any discomforts you experience with using ChatGPT?
+    - how do you generally feel about the content ChatGPT generates for you?
+      
+      
+- DAY 1 
+    - How do you feel towards TSM?
+    - How do you feel towards yourself after interacting with TSM? 
+    - Where there any particular highlights in the conversation?
+    - what content did you generate?
+    - Did you use TSM for anything else? 
+    - how do you feel towards the content TSM generated?
+    - What tone of voice did you use with TSM? 
+    - How do you feel towards similar technologies such as ChatGPT?
+    - In what ways should we be in control over GAI tools?
+
+- DAY 2
+    - How do you feel towards TSM?
+    - How do you feel towards yourself after interacting with TSM? 
+    - Where there any particular highlights in the conversation?
+    - what content did you generate?
+    - Did you use TSM for anything else? 
+    - how do you feel towards the content TSM generated?
+    - What tone of voice did you use with TSM? 
+    - How do you feel towards similar technologies such as ChatGPT?
+    - In what ways should we be in control over GAI tools?
+
+- DAY 3
+    - How do you feel towards TSM?
+    - How do you feel towards yourself after interacting with TSM? 
+    - Where there any particular highlights in the conversation?
+    - what content did you generate?
+    - Did you use TSM for anything else? 
+    - how do you feel towards the content TSM generated?
+    - What tone of voice did you use with TSM? 
+    - How do you feel towards similar technologies such as ChatGPT?
+    - In what ways should we be in control over GAI tools?
+
+- Final interview
+	  - What did you experience over the last 3 days with TSM? 
+	  - What were highlights in your interaction with TSM? 
+	  - How do you feel towards TSM? 
+	  - Has your relation towards TSM changed over the last 3 days? 
+	
+
+
 ## Entry 13/11/2023 - Lecture in DR and Data ##
 
 - Coding qual data
