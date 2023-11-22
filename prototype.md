@@ -1,3 +1,8 @@
+## Entry 21/11/2023 - T&R ##
+
+Okay I think Im starting to get the prot working. I'll probably be able to get something working tonight. Maybe I can take some clips/pictures tomorrow. I'll probably have to argue why I did phone and not laptop... 
+Okay I have to get the prompts working okay-ish first, then styling and then start worrying about a web version I suppose. Aim of today is to get something that kinda works. Start testing tomorrow, do as many test I can this week and then in the meanwhile start worrying about a beautiful fancy final prot. 
+
 ## Entry 10/11/2023 - C&A and T&R ##
 
 I think I hit jackpot. I have it completely begging for it's life. 
