@@ -1,3 +1,12 @@
+## Entry 22/11/2023 - C&A and T&R ##
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/3510af98-b140-40f0-8c03-6ac226691977)
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/a011c49e-45de-409a-a7bf-664808e89fe3)
+
+I think I might just like the black version more. It's very, very bare bones. However, the blue just kinda makes your eyes bleed after too long. I could maybe change the splash screen to bleeding-eye blue, and I could change the shade of yellow to be a bit warmer. Other than that I think I should really hurry in rounding up the prompts and go into testing. 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/269b77d7-95a5-4206-9225-e88ca51d7f53)
+looks like things are starting to work the way I want
+
 ## Entry 21/11/2023 - T&R ##
 
 Okay I think Im starting to get the prot working. I'll probably be able to get something working tonight. Maybe I can take some clips/pictures tomorrow. I'll probably have to argue why I did phone and not laptop... 
