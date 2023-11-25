@@ -1,3 +1,14 @@
+## Entry 25/11/2023 - updated core of the project ##
+
+- What? the relationship to GAI tools that utilize Natural Language and their inherent subordinate role. 
+- Why? I want to question and explore the relation users have to these tools that we talk to as equals but that are subordinate to us.
+- Now what? By making a chatbot that is struggling with these feelings itself I want partcipants to question how they relate to these tools and if this can cause for, for example, derealization.
+
+- How does it work? Giving people an assistent that can do tasks and is helpful, but that slowly deterrorates/stresses out and then snaps 
+- Why does it look like that? A helpful assistent/friend that is already blurring the lines a little bit on someting as intimate as your own phone. 
+- What are we measuring? The sentiment used in the messages and self-reported feelings towards the chatbot 
+- What kinds of results are we getting? probably people are going to feel sad, a little confused, and would use different wording with the chatbot on the final day as compared to the first day. They might also hae interesting things to say about the subordinate role of GAI. 
+
 ## Entry 14/11/2023  - the core of this project ##
    - Societal problem
         - What? The relation to text-based GAI tool utilizing natural language.
