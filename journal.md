@@ -1,3 +1,12 @@
+## Entry 25/11/2023 ##
+To do next week: 
+ - testing
+ - demoday clip
+ - demoday pitch
+ - demoday visuals
+ - data collection complete and start of analysis
+
+Right now I have to finish the prompts and also iron out what exactly this research is about. I can sell something shitty, but I cannot sell othing at all. 
 ## Entry 13/11/2023 ## 
 
 I have to start thinking of the report structure, as it will also haelp me to bettter refine the questions for the research
