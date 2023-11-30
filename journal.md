@@ -1,3 +1,15 @@
+## Entry 30/11/2023 ## 
+
+I've completed 3-ish usertests now and I have more planned. I need to start thinking what the overall story of this project is going to be. 
+I set out to explore the assumed role of GAI assistent and so far I have found that people are very un aware of it, but are also very frustrated by not getting the results they want and GAI in general not meeting their expectations. It does seem that the nervous bot is considered slightly more likeable and makes users use warmer language. That could be an angle? 
+
+as for data analysis, it could be interesting to:
+ - compare day 1 to day 5
+ - compare the self reports to the logs
+ - compare the logs themselves
+
+And then compare these outcomes with the lit framework (probably on stuff like helpfulness and warmth) 
+
 ## Entry 25/11/2023 ##
 To do next week: 
  - testing
