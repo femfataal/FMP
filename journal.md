@@ -1,3 +1,15 @@
+## Entry 5/12/2023 ##
+
+time to take stock and write out some of Minha's very general notes on my project. 
+
+- prototype is good and quite impressive (good)
+- explain the design process very well and based on theory (why and how did this came to be)
+- data analysing and having an interesting conclusion
+- making sure the the RQ, the prototype and the data all match
+- Include examples of all expertise areas
+- why is this fit for ID? Why is this an ID project?
+
+  
 ## Entry 30/11/2023 ## 
 
 I've completed 3-ish usertests now and I have more planned. I need to start thinking what the overall story of this project is going to be. 
