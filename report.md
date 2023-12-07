@@ -1,3 +1,15 @@
+## Entry 06/12/2023  - update core during data analysis ##
+
+RQ: what role should human-like responses play in the use of GAI tools? 
+Prototype: an increasingly human-like chatbot/assistent 
+Data: interview GAI users 
+      analyse the use of the bot based on the log 
+
+conclusion: nervousness and human-like responses help in creating lower more achievable expectations and make selling a no easier, the use of pure GAI should maybe be devoid of these human-like reactions to communicate the reality that this is a language model and a mathmatical approach to human language (?) 
+
+NEED TO ANSWER: but why is this the best way to research this? 
+
+
 ## Entry 25/11/2023 - updated core of the project ##
 
 - What? the relationship to GAI tools that utilize Natural Language and their inherent subordinate role. 
