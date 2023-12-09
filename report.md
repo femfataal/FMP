@@ -1,3 +1,43 @@
+## Entry 08/12/2023 - project draft for demo day: ##
+
+- RQ: what role should human-like responses play in the use of GAI tools? 
+- Perspective: Speculative design 
+      - why:to explore and question the unintended by-product of GAI tools, human-like responses made by an agent that is made to be subservient. This project attempts to open up this problem space in order to discuss this role rather than to solve it, and to show the future's malleability. This can be acheived by taking current social, technological and cultural trends (GAI, digital assitents, chatbots) into the future.  
+        -why not design fiction though? because this is not about preparing for the future instead of showing the future's malleability 
+        -what is the wicked problem at the heart of this?
+        - how is this though provoking?
+        - why is this a good design fiction? Because there is a good fit between the scenario, time-frame, cultural context and protagonist.
+        - Why is it an app? 
+- Approach: service design
+      - why: GAI is a service, and I'm exploring the implications for making an assistent 
+        - front-end (user)
+        - back-end (behind the screen)
+        - service blueprint:
+              - step 1: wholistic view of the user's context and service possibilities (where does this prototype fit into someone's life)
+              - step 2: visualize intangible interactions over time (journey mapping, storytelling, experience prototyping)
+              - step 3: develop an interdisciplinary and shared language (journey maps, blueprints, value exchange maps, system maps)
+  - Methods:
+          - interviews, questionaires, 
+- Design process: design parallels? 
+      - why: ?
+  (you made that one weird depressed bot story as a potential scenario) 
+- Prototype: an increasingly human-like chatbot/assistent 
+      - looks and feel why: ? 
+- Data: interview GAI users 
+      - analyse the use of the bot based on the log 
+- conclusion: nervousness and human-like responses help in creating lower more achievable expectations and make selling a no easier, the use of pure GAI should maybe be devoid of these human-like reactions to communicate the reality that this is a language model and a mathmatical approach to human language (?) 
+
+- why was this the best way to research this?
+- integration of expertise areas:
+        - C&A:
+        - U&S
+        - B&E
+        - T&R
+        - MD&C
+        -DR&P 
+
+
+
 ## Entry 06/12/2023  - update core during data analysis ##
 
 RQ: what role should human-like responses play in the use of GAI tools? 
