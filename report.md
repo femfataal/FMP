@@ -1,8 +1,18 @@
-## Entry 08/12/2023 - project draft for demo day: ##
+## Entry 11/12/2023 - meeting Rilla ##
+so Rilla thinks this is going in the right direction. Which is great. 
+THis research might be looking at the upper threshold to social acting with GAI. 
+
+For the report I need to: 
+      - use Max's framework from last time 
+      - reflect rather than describe, so make sure things tie back to literature and trends. 
+      - go over the data per individual and create emotional journey mappings and an overlapping maps as a visual 
+      - 
+
+## Entry 08/12/2023 and 11/12/2023 - project draft for demo day: ##
 
 - RQ: what role should human-like responses play in the use of GAI tools? 
 - Perspective: Speculative design 
-      - why:to explore and question the unintended by-product of GAI tools, human-like responses made by an agent that is made to be subservient. This project attempts to open up this problem space in order to discuss this role rather than to solve it, and to show the future's malleability. This can be acheived by taking current social, technological and cultural trends (GAI, digital assitents, chatbots) into the future.  
+      - why: to explore and question the unintended by-product of GAI tools, human-like responses made by an agent that is made to be subservient. This project attempts to open up this problem space in order to discuss this role rather than to solve it, and to show the future's malleability. This can be acheived by taking current social, technological and cultural trends (GAI, digital assitents, chatbots) into the future.  
         -why not design fiction though? because this is not about preparing for the future instead of showing the future's malleability 
         -what is the wicked problem at the heart of this? the human-like but chinese room argument inherent to LLMs 
         - how is this thought provoking? by introducing a sense of temporality and increasing and decreasing levels of human-ness, as well as presenting a service that gets overtaken by the thing it is testing
