@@ -1,3 +1,9 @@
+## Entry 11/12/2023 - preliminary conclusions while coding P1 ##
+it seems that the assistent works best with precise (unhuman) questions. It's best able to read what is exactly needed and will reply a satisfactory answer a bit better. 
+P1 has a very functional relationship, asking for precise things like parts of code and tips on how to improve. The GAI is very effective and able to meet expectations. P1 sometimes replies with human-like reactions to the correct responses (saying thank you or great!) to which the bot does not know how to respond. Confidence in the bot does goes down over time. 
+
+
+
 ## Entry 11/12/2023 - meeting Rilla ##
 so Rilla thinks this is going in the right direction. Which is great. 
 THis research might be looking at the upper threshold to social acting with GAI. 
