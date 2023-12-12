@@ -1,3 +1,12 @@
+## Entry 12/12/2023 - preliminary conclusion while coding P3 ##
+human like responses tend to come frequently after the bot ansers a question well, as an input this confuses the bot as it's not sure what to do with it. Causing a cycle of meeting expectations, getting a human response, giving an unsatisfing response, dissapointing the user, user adopting a more concise less human like question which gets a good response. 
+
+it seems that P3 enjoys chatting with it somewhat but there is an understanding that TSM is an assistent and therefore must do things. When it gets harder to do these things, P3 becoes frustrated and starts to stress test TSM as well as getting frustrated. 
+
+The moment answers become unsatisfactory or illusion of the emotional narrative gets shattered, P3 gets very frustrated and only want to limit test the bot. 
+
+
+
 ## Entry 11/12/2023 - preliminary conclusions while coding P1 ##
 it seems that the assistent works best with precise (unhuman) questions. It's best able to read what is exactly needed and will reply a satisfactory answer a bit better. 
 P1 has a very functional relationship, asking for precise things like parts of code and tips on how to improve. The GAI is very effective and able to meet expectations. P1 sometimes replies with human-like reactions to the correct responses (saying thank you or great!) to which the bot does not know how to respond. Confidence in the bot does goes down over time. 
