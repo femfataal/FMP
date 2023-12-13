@@ -1,3 +1,9 @@
+## Entry 12/12/2023 - VERY IMPORTANT IMAGE ##
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/78f1bf79-92b2-4638-af7e-88e7f6c2374d)
+
+TURN THIS INTO A CONCLUSION PIK 
+
 ## Entry 12/12/2023 - preliminary conclusion while coding P3 ##
 human like responses tend to come frequently after the bot ansers a question well, as an input this confuses the bot as it's not sure what to do with it. Causing a cycle of meeting expectations, getting a human response, giving an unsatisfing response, dissapointing the user, user adopting a more concise less human like question which gets a good response. 
 
