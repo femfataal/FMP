@@ -1,3 +1,6 @@
+## Entry 12/12/2023 - Demo day clip ##
+need 2:25 to 4:25 from Xinobi. Downloaded the track already
+
 ## Entry 12/12/2023 - Demo day text ##
 
 The use of Generative Artificial Intelligence (GAI) tools is becoming increasingly common. GAI is often used to answer questions, generate texts based on prompts or to summarize large texts. What makes this technology unique is the use of Natural Language in both the input from the user as well as the output from the AI. **This frames GAI as a tool we use by communicating with is as equals, but that is also hard coded to be subservient to the user. This project aims to explore the role of human-like responses within the use of GAI.** 
