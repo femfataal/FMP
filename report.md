@@ -1,3 +1,13 @@
+## Entry 18/12/2023 - preliminary conclusion while coding P5 ##
+
+P5 is particularly empathetic towards TSM and is more interested in having a conversation with it rather than generating content. For some strange reason it has lost the ability to write poems. Participant notes that the usability does go down over time while the user logs point out more empathy towards TSM, even helping it to calm down at some point. This create a more reflective environment, and creates room to ponder philosophical questions. 
+
+## Entry 16/12/2023 - preliminary conclusion while coding P4 ##
+P4 is able to get information from TSM by talking to it in a less human-like tone. When trying to talk conversationally both TSM and P4 start talking past eachother. There were also some rare occurrences of TSM responding human-like and correctly.
+
+## Entry 16/12/2023 - preliminary conclusion while coding P2 ##
+P2 was highly empathic. Talking to TSM in a very human-like tone and being much more interested in having a conversation with it. This resulted in some hallucinations as well as breaking the illusion by not being able to keep the conversation running. Some time the illusion got broken to the point where P2 actually started prompting TSM les human-like which resulted in better results. P2 found that the narrative story, particularly day 4 was interesting and that ‘’finally something is happening’’ 
+
 ## Entry 12/12/2023 - VERY IMPORTANT IMAGE ##
 
 ![image](https://github.com/FemkeKocken/FMP/assets/50365794/78f1bf79-92b2-4638-af7e-88e7f6c2374d)
