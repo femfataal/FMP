@@ -1,3 +1,7 @@
+## Entry 18/12/2023 - preliminary conclusion while coding P6 ##
+
+P6 starts testing and triggering TSM a lot. I really wants to use the bot as a toy and mess around with it. This triggers some severe hallucinations by the bot which entertain P6, but that also decrease trust. ‘’Great, I really uncovered the secrets of AI. This is not ready to take over the world, and if it is I’m getting 50% off of things’’ (in reference to a 50% discount offer hallucination by TSM). 
+
 ## Entry 18/12/2023 - preliminary conclusion while coding P5 ##
 
 P5 is particularly empathetic towards TSM and is more interested in having a conversation with it rather than generating content. For some strange reason it has lost the ability to write poems. Participant notes that the usability does go down over time while the user logs point out more empathy towards TSM, even helping it to calm down at some point. This create a more reflective environment, and creates room to ponder philosophical questions. 
