@@ -12,12 +12,6 @@ P4 is able to get information from TSM by talking to it in a less human-like ton
 ## Entry 16/12/2023 - preliminary conclusion while coding P2 ##
 P2 was highly empathic. Talking to TSM in a very human-like tone and being much more interested in having a conversation with it. This resulted in some hallucinations as well as breaking the illusion by not being able to keep the conversation running. Some time the illusion got broken to the point where P2 actually started prompting TSM les human-like which resulted in better results. P2 found that the narrative story, particularly day 4 was interesting and that ‘’finally something is happening’’ 
 
-## Entry 12/12/2023 - VERY IMPORTANT IMAGE ##
-
-![image](https://github.com/FemkeKocken/FMP/assets/50365794/78f1bf79-92b2-4638-af7e-88e7f6c2374d)
-
-TURN THIS INTO A CONCLUSION PIK 
-
 ## Entry 12/12/2023 - preliminary conclusion while coding P3 ##
 human like responses tend to come frequently after the bot ansers a question well, as an input this confuses the bot as it's not sure what to do with it. Causing a cycle of meeting expectations, getting a human response, giving an unsatisfing response, dissapointing the user, user adopting a more concise less human like question which gets a good response. 
 
@@ -31,6 +25,26 @@ The moment answers become unsatisfactory or illusion of the emotional narrative 
 it seems that the assistent works best with precise (unhuman) questions. It's best able to read what is exactly needed and will reply a satisfactory answer a bit better. 
 P1 has a very functional relationship, asking for precise things like parts of code and tips on how to improve. The GAI is very effective and able to meet expectations. P1 sometimes replies with human-like reactions to the correct responses (saying thank you or great!) to which the bot does not know how to respond. Confidence in the bot does goes down over time. 
 
+## Entry 18/12/2023 - Stefan demoday ##
+
+o
+
+## Entry 18/12/2023 - Minha demoday ##
+
+- Demo needs to work
+- Why does TSM talk like this
+- explain why this research is crititcal, and why it is good that participants get frustrated
+- what is the position
+- if not human-like then what
+- why is this the right kind of intervention
+- need to reference the smart wife paper (see teams. Conversational futures section 2.1)
+- 
+
+## Entry 12/12/2023 - VERY IMPORTANT IMAGE ##
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/78f1bf79-92b2-4638-af7e-88e7f6c2374d)
+
+TURN THIS INTO A CONCLUSION PIK 
 
 
 ## Entry 11/12/2023 - meeting Rilla ##
