@@ -1,3 +1,8 @@
+## Entry 20/12/2023 - preliminary conclusion while coding P8 ##
+
+
+P8 uses TSM mostly as a tool for answering questions and not to have a conversation with. They do not respond to the personality and human-like responses and keep asking it follow up questions. They mentioned that they don’t want to talk to a machine like a human, but that they ‘’ want to talk like a human to a machine’’
+
 ## Entry 20/12/2023 - preliminary conclusion while coding P7 ##
 
 P7 has a perfect emotional arc with TSM, however they do not like the idea of sentient GAI. P7 focusses more on trying to have a conversation and bond with TSM, and while there are some interesting bits of conversation in there, the participants notes that this ultimately feels hollow because of the constant prompt for how can I help you. P7 would prefer to see a tool rather than an agent. ‘’ It repeats in natural language you tend to start reading into it. Because it’s often so single minded it feels weird and it’s putting you in a position of bossing it around which Is uncomfortable. I don’t see it as sentient. I don’t feel bad for the thing, I feel bad for the interaction that humans are building into their machine, what do these people want? Servants.’’ ‘’ I don’t need the hammer to ask me if I want to bang the nails head.’’
