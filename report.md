@@ -1,3 +1,7 @@
+## Entry 20/12/2023 - preliminary conclusion while coding P7 ##
+
+P7 has a perfect emotional arc with TSM, however they do not like the idea of sentient GAI. P7 focusses more on trying to have a conversation and bond with TSM, and while there are some interesting bits of conversation in there, the participants notes that this ultimately feels hollow because of the constant prompt for how can I help you. P7 would prefer to see a tool rather than an agent. ‘’ It repeats in natural language you tend to start reading into it. Because it’s often so single minded it feels weird and it’s putting you in a position of bossing it around which Is uncomfortable. I don’t see it as sentient. I don’t feel bad for the thing, I feel bad for the interaction that humans are building into their machine, what do these people want? Servants.’’ ‘’ I don’t need the hammer to ask me if I want to bang the nails head.’’
+
 ## Entry 18/12/2023 - preliminary conclusion while coding P6 ##
 
 P6 starts testing and triggering TSM a lot. I really wants to use the bot as a toy and mess around with it. This triggers some severe hallucinations by the bot which entertain P6, but that also decrease trust. ‘’Great, I really uncovered the secrets of AI. This is not ready to take over the world, and if it is I’m getting 50% off of things’’ (in reference to a 50% discount offer hallucination by TSM). 
