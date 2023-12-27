@@ -1,3 +1,6 @@
+## Entry 26/12/2023 - merry christmas, need to start reporting ##
+Tomorrow I am going to start the actual report. Planning to go top down from the theorectical framework all the way down to the results. Finish those up, do the the introduction and hopefully that will be done before sending things of to Minha on the 3rd. The goals should to do one section per day if possible. 
+
 ## Entry 20/12/2023 - preliminary conclusion while coding P8 ##
 
 
