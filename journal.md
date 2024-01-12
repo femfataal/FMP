@@ -1,3 +1,10 @@
+## Entry 12/01/2024 - some updates ##
+So I wrote most of the report in a 36 hour haze. I also reframed the entire thing.
+
+Now it's delivered, my eyes burn a lot. I still have to do the portfolio and the presentation. 
+I'll porbably make an overview of what needs to be written, and what parts I already have. Write for maybe 2 or 3 days and then get to building the website. 
+
+
 ## Entry 5/12/2023 ##
 
 time to take stock and write out some of Minha's very general notes on my project. 
