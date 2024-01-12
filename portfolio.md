@@ -1,3 +1,8 @@
+## Entry 12/02/2024 ##
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/338cb78a-0005-4971-883b-07a88c0426df)
+This is the to do list for this weekend basically. On Monday I hope to start building the website
+
 ## Entry 25/12/2023 - start of portfolio file ##
 
 This file aims to keep track of the development of my portfolio. 
