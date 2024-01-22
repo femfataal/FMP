@@ -1,3 +1,12 @@
+## Entry 22/01/2024 ##
+
+I delivered the portfolio website which is good. 
+I still scared that I'm going to get massive shit over the way I presented the results of this project. 
+I need to do the presentation as well. 10 min project, 10 min portfolio. Not looking forward honestly.
+Best to get it out of the way, and continue the job hunt/portfolio improvements.
+Then there's also the whole visa thing... 
+Okay don't spiral. 
+
 ## Entry 12/01/2024 - some updates ##
 So I wrote most of the report in a 36 hour haze. I also reframed the entire thing.
 
