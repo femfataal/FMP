@@ -1,3 +1,17 @@
+## Entry 01/02/2024 ##
+
+Guess who got a condition? 
+It sucks. It's ironic that in my little overly stressed out brain I had already predicted this as the realistic, most likely and worst-case most probable outcome. This included people low key shaming me or looking down on me because I'm not able to pass the project that they did in one go. Whomp whomp. 
+Best quote of the defense: 'I was really excited abotu your project, but then I read the report'
+Anyways, wallowing in self-pity is not why I'm writing this. 
+
+I think I finally figured that my attitude towards my design work has become a self-fufilling profecy of some sort. It doesn't matter if you deliver your best work to date, if you've structured all of your work around a game of: 'In the End Femke Kocken is Never Enough'. Shitty game 0/10. My appologies if all of these logs are unprofessional or can't be used in the end. I didn't expect that giving an insight into my design process would actually show that my mind is not a fun place to hang out LOL. 
+
+However, for the last couple days I felt like I was getting stuck, for both this project as well as the GaR paper. I found that actually setting up a Miro to write down steps in a low commitment actually helps. I guess that if I can play it of as casual, I'm not asscared to do work, experiment and possibly fail. Because it's not really failing if it's just casual. Once again this is really saying a lot about me as a person. Yuck sorry about that. The point I guess that I was trying to make is that this almost reminds me of a fuckboy's approach to intimacy. Which would make me a design research fuckboy (name needs workshopping for sure). On the other hand, if it can help me to get this over with, I could use it for now. But yeah, definitly need to work on this. 
+
+WHy did I write this again? Oh yeah, maybe I should just start a Miro again for this project. Could this entire thing be reduced to that? Yeah possibly, but that would also feel dishonest in some sorta way. 
+
+
 ## Entry 22/01/2024 ##
 
 I delivered the portfolio website which is good. 
