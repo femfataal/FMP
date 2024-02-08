@@ -1,3 +1,26 @@
+## Entry 8/2/2024 - new story line ##
+So I trnaslated the condition into actionable/report points 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/a5517faa-d6a7-4e4d-bcdd-7dc985ad598c)
+
+Then I summarized the storyline of the old report 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/6d13c105-c297-4cf6-b441-07cbf03ec22c)
+
+I then merged the two into a possible new report outline 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/57c2e376-d214-413f-bbf8-e2c997ffe5c0)
+
+This one kinda sucked, becaues it did not include the old report so I updated it 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/45476549-8941-4680-add0-050b146281b9)
+
+How I went about this was to write down the important sub section I need to write about for each report section. Then cut them out and shuffle them in order to create a flowing story and logical structure 
+
+![image](https://github.com/FemkeKocken/FMP/assets/50365794/5488b6e7-4448-4749-a116-f512fc67f57e)
+
+I'mg going to turn this into a word doc, and probably take it from there. 
+
 ## Entry 08/02/2024 ##
 
 Not sure if this is TMI, but I'm on day 6 of a 7 day water fast. I honestly feel better and have much more mental clarity then when I was stress eating before. 
