@@ -1,3 +1,9 @@
+## Entry 08/02/2024 ##
+
+Not sure if this is TMI, but I'm on day 6 of a 7 day water fast. I honestly feel better and have much more mental clarity then when I was stress eating before. 
+I have the condition in. It took me a day to muster up the courage to read it and about 4 days to actually start doing something with it. 
+I think I'm going to try to make a story line of both the old report, and one with the items mentioned in the condition. I think that'll give me a direction to write in. 
+
 ## Entry 01/02/2024 ##
 
 Guess who got a condition? 
